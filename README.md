@@ -16,9 +16,9 @@
 3. 在客户端输入 `exit` 即可关闭客户端
 4. 在服务端输入 `exit` 即可关闭服务端
 
-![client](.\img\client.png)
+![client](./img/client.png)
 
-![server](.\img\server.png)
+![server](./img/server.png)
 
 ## 地址
 
