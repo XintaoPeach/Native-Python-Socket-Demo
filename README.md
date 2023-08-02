@@ -7,7 +7,7 @@ python: 3.11.3
 
 系统: Windows 11
 
-软件: VS Code
+编辑器: VS Code
 
 ## socketClient
 
